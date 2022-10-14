@@ -20,5 +20,5 @@ int main(void)
 		printf("%d is zero\n", n);
 	else if (n < 0)
 		printf("%d is negative\n", n);
-	Return: Always 0 (Sucess);
+	return (0);
 }
